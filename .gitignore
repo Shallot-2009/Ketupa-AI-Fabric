@@ -1,0 +1,9 @@
+.publication/
+*.private.json
+*.log
+*.lic
+*.pfx
+*.p12
+*.exe
+*.deb
+*.tar.gz

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "product": "Ketupa AI Fabric",
+  "license": "Proprietary; see EULA.md",
+  "files": [
+    {
+      "version": "1.0.1",
+      "channel": "preview",
+      "filename": "Ketupa-AI-Fabric-1.0.1-Windows-x64-Setup.exe",
+      "bytes": 363317630,
+      "sha256": "d071624f9b79fed887229d9220240c525be7ed5b1f34df18d83f175bf4d2b532",
+      "tag": "v1.0.1",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.1/Ketupa-AI-Fabric-1.0.1-Windows-x64-Setup.exe"
+    },
+    {
+      "version": "1.0.1",
+      "channel": "preview",
+      "filename": "ketupa-ai-fabric-linux-1.0.1-x64.tar.gz",
+      "bytes": 225473255,
+      "sha256": "4f78ad9f11c043e5089231084eec0724dc40d5dd95fe8c43c796cac58f904a7a",
+      "tag": "v1.0.1",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.1/ketupa-ai-fabric-linux-1.0.1-x64.tar.gz"
+    },
+    {
+      "version": "1.0.1",
+      "channel": "preview",
+      "filename": "ketupa-ai-fabric-linux_1.0.1_amd64.deb",
+      "bytes": 225339138,
+      "sha256": "47920a874221d262d9fa03c1c276701f44b4f6d79866182d6e0a3e5dc29d1c75",
+      "tag": "v1.0.1",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.1/ketupa-ai-fabric-linux_1.0.1_amd64.deb"
+    },
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "filename": "ketupa-runtime-1.0.0-Windows-x64-Setup.exe",
+      "bytes": 249587631,
+      "sha256": "d03758731c0180ce6ee43fb83b93e79f00423f453dd7add7bd24aabbac31abe1",
+      "tag": "v1.0.0",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.0/ketupa-runtime-1.0.0-Windows-x64-Setup.exe"
+    },
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "filename": "ketupa-runtime-1.0.0-Linux-x64.tar.gz",
+      "bytes": 381786331,
+      "sha256": "5b4ac5fad78d0d90969c8a9816b80ea54c3d4635ca8c5d58b4170913d0b9446b",
+      "tag": "v1.0.0",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.0/ketupa-runtime-1.0.0-Linux-x64.tar.gz"
+    },
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "filename": "ketupa-runtime-installer_1.0.0_amd64.deb",
+      "bytes": 381655018,
+      "sha256": "4ba6e4f8eb0d712886f48f9bc8ef0fce4895444e72ea39dd6cc5260d0d34749f",
+      "tag": "v1.0.0",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.0/ketupa-runtime-installer_1.0.0_amd64.deb"
+    },
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "filename": "openketupa-1.0.0-Windows-x64-Setup.exe",
+      "bytes": 249586156,
+      "sha256": "9ebc6623c9cdb0d762a3002ee882bc4e9c0e410d1c982adc39197072987eeb33",
+      "tag": "v1.0.0",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.0/openketupa-1.0.0-Windows-x64-Setup.exe"
+    },
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "filename": "openketupa-1.0.0-Linux-x64.tar.gz",
+      "bytes": 372360423,
+      "sha256": "9dc0f16b8cfd4320eb6e556f4b79ded65b91155af81a3e851755d5bb558193de",
+      "tag": "v1.0.0",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.0/openketupa-1.0.0-Linux-x64.tar.gz"
+    },
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "filename": "openketupa-1.0.0-linux-amd64.deb",
+      "bytes": 372238186,
+      "sha256": "afc4c2fd3203b9828aef55b92cc80061f8b60682f1b077b1a3325fee26acd589",
+      "tag": "v1.0.0",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/v1.0.0/openketupa-1.0.0-linux-amd64.deb"
+    },
+    {
+      "version": "Beta",
+      "channel": "preview",
+      "filename": "openketupa-Beta-Windows-x64-Setup.exe",
+      "bytes": 298503168,
+      "sha256": "ff9ecc81f4bc6c90be78cd66783057b2f75c97eebbd9bb384a0df0a536dd9683",
+      "tag": "beta",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/beta/openketupa-Beta-Windows-x64-Setup.exe"
+    },
+    {
+      "version": "Beta",
+      "channel": "preview",
+      "filename": "openketupa-Beta-linux-x64.tar.gz",
+      "bytes": 224140598,
+      "sha256": "29d467fdc37b4751086568561c05ddc1e18ce61dbce2842d38fc85fa71352696",
+      "tag": "beta",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/beta/openketupa-Beta-linux-x64.tar.gz"
+    },
+    {
+      "version": "Beta",
+      "channel": "preview",
+      "filename": "openketupa-Beta-linux-amd64.deb",
+      "bytes": 223294128,
+      "sha256": "cedc5053c3153e13c1d3adb0c15d04f0d14e16b521c37eebed9a3457e7663679",
+      "tag": "beta",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/beta/openketupa-Beta-linux-amd64.deb"
+    }
+  ]
+}

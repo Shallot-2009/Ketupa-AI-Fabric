@@ -1,0 +1,3 @@
+ff9ecc81f4bc6c90be78cd66783057b2f75c97eebbd9bb384a0df0a536dd9683  openketupa-Beta-Windows-x64-Setup.exe
+29d467fdc37b4751086568561c05ddc1e18ce61dbce2842d38fc85fa71352696  openketupa-Beta-linux-x64.tar.gz
+cedc5053c3153e13c1d3adb0c15d04f0d14e16b521c37eebed9a3457e7663679  openketupa-Beta-linux-amd64.deb
