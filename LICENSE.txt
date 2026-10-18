@@ -1,0 +1,17 @@
+Ketupa AI Fabric — Proprietary Software / 专有软件
+Copyright (c) 2024–2026 asen-tech.com. All rights reserved.
+
+中文：本仓库的第一方产品资料及 Ketupa 专有组件保留全部权利。允许阅读
+公开资料、从官方渠道下载安装包，以及在有效授权或书面合同范围内使用
+产品。其他许可见 EULA.md。公开下载不构成开源授权、转售授权或免费
+商业使用授权。第三方组件、历史已授予许可及法律强制性权利不受限制。
+
+English: All rights are reserved in first-party product documentation and
+Ketupa proprietary components. You may read public documentation, download
+installers from official channels, and use the product within a valid license
+or written agreement. See EULA.md for further terms. Public download is not an
+open-source license, a resale license, or a grant of free commercial use.
+Third-party licenses, previously granted rights, and mandatory legal rights
+are unaffected.
+
+Licensing contact / 授权联系: asenjoaupa@gmail.com
