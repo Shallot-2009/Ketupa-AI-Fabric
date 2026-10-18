@@ -19,3 +19,9 @@ The EULA for first-party Ketupa components does not cover third-party software. 
 4. Original installers remain byte-for-byte unchanged. This page does not claim a complete legal audit of every version. Report missing notices or source requests with the version, filename, and component name, without posting customer data.
 
 Contact / 联系: [asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com).
+
+## 本次附加材料 / Supplementary materials
+
+对应源码、发行版补丁和构建材料在 [第三方源码说明](docs/THIRD_PARTY_SOURCES.md) 中按版本列出，并作为 Release Assets 提供。部分原始许可文本另存于 [licenses/third-party](licenses/third-party)，以方便查阅；完整组件声明仍以安装包和源码包内部文件为准。第一方 EULA 不限制 LGPL 对修改、替换和调试组件明确保留的权利。
+
+Matching source, distribution patches, and build materials are listed by release in [third-party source information](docs/THIRD_PARTY_SOURCES.md) and supplied as Release Assets. Selected original license texts are also preserved under [licenses/third-party](licenses/third-party) for reference; consult the installers and source archives for complete component notices. The first-party EULA does not restrict LGPL rights to modify, replace, and debug those components.

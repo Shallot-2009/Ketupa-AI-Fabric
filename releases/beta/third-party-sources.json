@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "productVersion": "Beta",
+  "scope": "Identified third-party source materials; not proprietary Ketupa source",
+  "files": [
+    {
+      "filename": "gcc-4.8.5-44.el7.src.rpm",
+      "bytes": 79314655,
+      "sha256": "642c4085f6af9565e39583e54a9d7a5d9e6b93dd8c8e9474aec8a892d6c7aa36",
+      "component": "CentOS GCC 4.8.5-44.el7 / libquadmath",
+      "license": "LGPL-2.1-or-later for libquadmath; other GCC licenses and exceptions apply",
+      "versions": [
+        "1.0.1",
+        "Beta"
+      ],
+      "sourceUrl": "https://archive.kernel.org/centos-vault/7.9.2009/os/Source/SPackages/gcc-4.8.5-44.el7.src.rpm",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/beta/gcc-4.8.5-44.el7.src.rpm"
+    },
+    {
+      "filename": "ffmpeg-5.1.6.tar.xz",
+      "bytes": 10021428,
+      "sha256": "f4fa066278f7a47feab316fef905f4db0d5e9b589451949740f83972b30901bd",
+      "component": "FFmpeg 5.1.6",
+      "license": "LGPL-2.1-or-later for the identified shared-library build",
+      "versions": [
+        "Beta"
+      ],
+      "sourceUrl": "https://ffmpeg.org/releases/ffmpeg-5.1.6.tar.xz",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/beta/ffmpeg-5.1.6.tar.xz"
+    },
+    {
+      "filename": "opencv-python-headless-4.11.0.86.tar.gz",
+      "bytes": 95177929,
+      "sha256": "996eb282ca4b43ec6a3972414de0e2331f5d9cda2b41091a49739c19fb843798",
+      "component": "opencv-python-headless 4.11.0.86 build materials",
+      "license": "Apache-2.0 / MIT and component-specific terms",
+      "versions": [
+        "Beta"
+      ],
+      "sourceUrl": "https://pypi.org/project/opencv-python-headless/4.11.0.86/",
+      "downloadUrl": "https://github.com/Shallot-2009/Ketupa-AI-Fabric/releases/download/beta/opencv-python-headless-4.11.0.86.tar.gz"
+    }
+  ]
+}

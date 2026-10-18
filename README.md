@@ -32,6 +32,7 @@
 - 第三方组件保留各自权利，见 [第三方声明](THIRD_PARTY_NOTICES.md)。本仓库不撤销历史版本已经合法授予的权利。
 - 本仓库不提供核心源码、授权签名私钥、客户工程或真实授权文件。完整性检查不等于功能、安全或仿真精度认证。
 - 问题反馈见 [支持与反馈](SUPPORT.md)；维护流程见 [发布运维](docs/OPERATIONS.md)。
+- 本轮检查内容及未覆盖事项见 [发布核验范围](docs/VERIFICATION.md)；第三方源码附件见 [源码说明](docs/THIRD_PARTY_SOURCES.md)。
 
 发布者：**asen-tech.com**；维护联系：**Asenjo.HB.L**。主页：[Shallot-2009](https://github.com/Shallot-2009/)。
 
@@ -62,5 +63,6 @@ See the [download index](docs/DOWNLOADS.md) and [machine-readable catalog](catal
 - Third-party rights are retained; see [third-party notices](THIRD_PARTY_NOTICES.md). This repository does not revoke rights lawfully granted for historical releases.
 - Core source code, license-signing private keys, customer projects, and real license files are not distributed through the repository tree. Integrity checks are not functional, security, or simulation-accuracy certification.
 - See [support](SUPPORT.md) for reporting issues and [release operations](docs/OPERATIONS.md) for maintenance.
+- See [publication verification scope](docs/VERIFICATION.md) for checks and limitations, and [third-party sources](docs/THIRD_PARTY_SOURCES.md) for source attachments.
 
 Publisher: **asen-tech.com**. Maintainer contact: **Asenjo.HB.L**. Profile: [Shallot-2009](https://github.com/Shallot-2009/).

@@ -5,3 +5,9 @@
 English: This release mirrors 6 original installers with unchanged filenames and bytes. A valid entitlement is required. Its channel follows the source release catalog. This synchronization does not establish installation, real simulation, or signoff acceptance. Third-party licenses remain effective; read the [EULA](https://github.com/Shallot-2009/Ketupa-AI-Fabric/blob/main/EULA.md).
 
 请下载安装包并核对 SHA256SUMS.txt；Source code 压缩包仅为资料。 / Download an installer and verify SHA256SUMS.txt. Source code archives contain documentation only.
+
+## Third-party sources / 第三方源码
+
+第三方源码附件与产品安装包分开提供，见 [源码及构建材料](https://github.com/Shallot-2009/Ketupa-AI-Fabric/blob/main/docs/THIRD_PARTY_SOURCES.md)。安装包哈希使用 SHA256SUMS.txt，第三方源码使用 THIRD_PARTY_SHA256SUMS.txt；源码附件不是 Ketupa 安装程序。
+
+Third-party source assets are separate from installers. See [source and build materials](https://github.com/Shallot-2009/Ketupa-AI-Fabric/blob/main/docs/THIRD_PARTY_SOURCES.md). Use SHA256SUMS.txt for installers and THIRD_PARTY_SHA256SUMS.txt for source. Source assets are not Ketupa installers.
