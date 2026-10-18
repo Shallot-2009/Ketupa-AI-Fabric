@@ -1,3 +1,0 @@
-d071624f9b79fed887229d9220240c525be7ed5b1f34df18d83f175bf4d2b532  Ketupa-AI-Fabric-1.0.1-Windows-x64-Setup.exe
-4f78ad9f11c043e5089231084eec0724dc40d5dd95fe8c43c796cac58f904a7a  ketupa-ai-fabric-linux-1.0.1-x64.tar.gz
-47920a874221d262d9fa03c1c276701f44b4f6d79866182d6e0a3e5dc29d1c75  ketupa-ai-fabric-linux_1.0.1_amd64.deb

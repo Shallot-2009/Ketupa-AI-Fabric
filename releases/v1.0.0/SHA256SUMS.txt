@@ -1,6 +1,0 @@
-d03758731c0180ce6ee43fb83b93e79f00423f453dd7add7bd24aabbac31abe1  ketupa-runtime-1.0.0-Windows-x64-Setup.exe
-5b4ac5fad78d0d90969c8a9816b80ea54c3d4635ca8c5d58b4170913d0b9446b  ketupa-runtime-1.0.0-Linux-x64.tar.gz
-4ba6e4f8eb0d712886f48f9bc8ef0fce4895444e72ea39dd6cc5260d0d34749f  ketupa-runtime-installer_1.0.0_amd64.deb
-9ebc6623c9cdb0d762a3002ee882bc4e9c0e410d1c982adc39197072987eeb33  openketupa-1.0.0-Windows-x64-Setup.exe
-9dc0f16b8cfd4320eb6e556f4b79ded65b91155af81a3e851755d5bb558193de  openketupa-1.0.0-Linux-x64.tar.gz
-afc4c2fd3203b9828aef55b92cc80061f8b60682f1b077b1a3325fee26acd589  openketupa-1.0.0-linux-amd64.deb

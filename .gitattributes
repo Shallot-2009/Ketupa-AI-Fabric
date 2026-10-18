@@ -1,1 +1,4 @@
-* text=auto eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.xz binary
+*.rpm binary
