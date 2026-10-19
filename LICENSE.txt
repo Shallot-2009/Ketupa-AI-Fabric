@@ -1,17 +1,56 @@
-Ketupa AI Fabric — Proprietary Software / 专有软件
+Ketupa AI Fabric / Ketupa Runtime / OpenKetupa
+PROPRIETARY SOFTWARE NOTICE / 专有软件权利声明
+Document revision / 文档修订号: 2026-10-19-r2
+
 Copyright (c) 2024–2026 asen-tech.com. All rights reserved.
+Public author attribution / 公开作者署名: Asenjo (Asenjo.HB.L)
 
-中文：本仓库的第一方产品资料及 Ketupa 专有组件保留全部权利。允许阅读
-公开资料、从官方渠道下载安装包，以及在有效授权或书面合同范围内使用
-产品。其他许可见 EULA.md。公开下载不构成开源授权、转售授权或免费
-商业使用授权。第三方组件、历史已授予许可及法律强制性权利不受限制。
+中文
+本仓库第一方专有软件及产品资料保留全部未明确授予的权利。允许阅读
+公开资料及从官方渠道下载安装包；运行、试用、商用等使用须有适用的
+有效授权。具体范围、限制及接受规则见 EULA.md；有效专项书面协议
+在其明确约定范围内优先适用。
 
-English: All rights are reserved in first-party product documentation and
-Ketupa proprietary components. You may read public documentation, download
-installers from official channels, and use the product within a valid license
-or written agreement. See EULA.md for further terms. Public download is not an
-open-source license, a resale license, or a grant of free commercial use.
-Third-party licenses, previously granted rights, and mandatory legal rights
-are unaffected.
+本声明不是 Apache、MIT、MPL、AGPL 或其他开源许可；公开下载不授予
+第一方核心源码、转售、站外再分发、托管或免费商用许可。OpenKetupa
+名称本身不表示第一方软件开源。不得在未经授权或无法律依据时绕过
+许可检查、分享授权、复制再销售或取得非公开第一方源码。
 
-Licensing contact / 授权联系: asenjoaupa@gmail.com
+署名及发布标识不代替权属证明；法律许可主体及授权依据以有效合同、
+授权证明或书面确认为准。保护以合法权利为限，不主张对通用思想、
+算法或用户独立成果的排他所有权。
+
+第三方组件依其独立许可处理，声明和源码见 third-party/。GitHub
+平台允许的查看、展示及站内 fork 权利、强制性法律权利、第三方许可
+和历史合法权利不受削减。不改变独立项目许可，不因网页更新追溯撤销
+既有授权。
+
+English
+All rights not expressly granted in first-party proprietary software and
+product documentation are reserved. Reading public documentation and
+downloading installers from official channels are permitted. Execution,
+evaluation, commercial use, and other uses require valid entitlements.
+EULA.md defines scope, restrictions, and acceptance; valid separate written
+agreements prevail within their express scope.
+
+This is not an Apache, MIT, MPL, AGPL, or other open-source license. Public
+download grants no first-party core-source access, resale, off-platform
+redistribution, hosting, or free commercial-use license. OpenKetupa does not
+itself mean first-party software is open source. Do not bypass license
+checks, share entitlements, resell copies, or obtain non-public first-party
+source without authorization or legal permission.
+
+Attribution and publishing identifiers do not substitute for ownership
+evidence. The legal Licensor and authority follow the effective agreement,
+license evidence, or written confirmation. Protection is limited to lawful
+rights; no exclusive ownership of general ideas, algorithms, or independently
+created user work is claimed.
+
+Third-party licenses, notices, and sources are provided in third-party/.
+GitHub platform rights to view, display, and fork within the service,
+mandatory rights, third-party rights, and lawful historical rights remain
+unaffected. Separate projects' licenses remain unchanged. Website updates
+do not retroactively revoke grants.
+
+Licensing, rights, and security / 授权、权利与安全:
+asenjoaupa@gmail.com | 3405802009@qq.com

@@ -1,10 +1,12 @@
-# Ketupa AI Fabric · Product Downloads
+# Ketupa AI Fabric · Official Product Distribution
 
 [简体中文](#简体中文) | [English](#english)
 
 ## 简体中文
 
-Ketupa AI 自动化设计与仿真产品发布。保留 **4 个版本组，每组 3 个安装包，共 12 个**。同为 1.0.0 的 Runtime 与 OpenKetupa 分开列示，保留原始文件名和版本号。
+Ketupa AI 自动化设计与仿真产品的官方安装包与授权资料发布仓库。第一方核心软件闭源，不在此公开。本仓库提供 **4 个发行组，每组 3 个安装包，共 12 个**。同为 1.0.0 的 Runtime 与 OpenKetupa 是不同发行产品，保留原始文件名和版本号。
+
+> **许可类型：专有软件 / Proprietary。** 下载不等于获得运行、试用或商用许可。请先阅读 [权利声明](LICENSE.txt) 和 [EULA](EULA.md)（修订号 `2026-10-19-r2`）。OpenKetupa 名称本身不表示第一方软件开源。
 
 | 版本 / Release | 状态 / Status | Windows x64 | Linux x64 | Linux amd64 |
 | --- | --- | --- | --- | --- |
@@ -21,13 +23,36 @@ Ketupa AI 自动化设计与仿真产品发布。保留 **4 个版本组，每�
 2. Windows 运行 EXE 安装程序；Linux 解压 TAR.GZ 或安装 DEB，然后按照包内说明配置环境。
 3. 运行第一方专有软件需要有效 `.lic`；授权与支持：[asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com)。不要公开提交授权文件、密钥、设备标识或客户资料。
 
-核心软件闭源，第一方组件适用 [专有许可](LICENSE.txt) 与 EULA；公开下载不授予免费商用或核心源码许可。商业 EDA 工具及其许可需另行取得。必要第三方许可与对应源码保存在 [third-party](third-party/README.md)，不作为产品安装附件。
+### 许可、知识产权与使用边界
+
+| 内容 | 适用规则 |
+| --- | --- |
+| 第一方软件、配套资料 | [专有权利声明](LICENSE.txt) 与 [EULA](EULA.md)，有效专项书面协议在其明确约定范围内优先 |
+| 使用授权 | 按实际合同或授权证明限定版本、模块、用户、设备、并发、期限、地域及用途；不要推定免费商用或无限制使用 |
+| 再分发与服务化 | 转售、OEM、白标、托管、SaaS、共享授权等须有相应书面许可，法定及第三方权利除外 |
+| 用户工程及输出 | 不因软件处理而归发布方所有；实际嵌入的受限组件仍依其原许可 |
+| 第三方组件 | 按 [third-party](third-party/README.md) 中各自许可处理，保留相应源码及库替换等权利 |
+| GitHub 平台操作 | 平台条款允许的查看、展示及站内 fork 不等于软件运行、站外再分发或商用许可 |
+
+第一方核心源码、非公开技术资料和授权文件不在本仓库发布。不得未经授权绕过许可检查、共享 `.lic`、再销售或提取非公开第一方源码；法律及第三方许可明确允许的行为除外。商业 EDA 工具及许可需另行取得。本仓库许可不改变其他独立项目的开源许可。
+
+### 授权申请与支持
+
+通过 [asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com) 私密联系，提供拟授权个人或组织、产品及版本、操作系统、用户与设备或并发需求、用途和期限。许可方完整法律身份、权属依据和授权范围应在正式合同或授权证明中确认；作者署名和域名不代替这些证明。报价、试用、支持、维护与升级以实际书面约定为准。
+
+公开问题仅提交版本、系统、复现步骤和脱敏日志。不要公开 `.lic`、密钥、设备指纹、客户资料或真实工程；设备信息仅在确有授权需要时经私密渠道提供。权利争议与安全问题也请私密联系，不公开披露可利用细节。
+
+### 分发与核验说明
+
+请从本仓库 Releases 下载，核对版本、文件名及 SHA-256。未经授权的镜像、修改包和第三方转售不代表官方交付。公开摘要用于一致性校验，不等于数字签名或安全认证。第三方许可及必要源码位于仓库中，不作为产品安装附件。
 
 1.0.1 仍为预览版；历史标签不代表本次完成安装或真实仿真验收。完整性核验不等于功能、安全、精度或工程签核认证。GitHub 自动生成的 Source code ZIP/TAR 只是仓库资料快照，不能安装产品。
 
 ## English
 
-Ketupa AI automated design and simulation downloads. **Four release groups, three installers per group, twelve installers total.** Runtime 1.0.0 and OpenKetupa 1.0.0 are separate distributions; original filenames and version numbers are preserved in the table above.
+Official installers and licensing materials for Ketupa AI automated design and simulation. First-party core software is closed-source and is not published here. **Four release groups, three installers per group, twelve installers total.** Runtime 1.0.0 and OpenKetupa 1.0.0 are distinct distributions; original filenames and versions are preserved above.
+
+> **License: Proprietary.** Downloading grants no execution, evaluation, or commercial entitlement. Read [LICENSE.txt](LICENSE.txt) and the [EULA](EULA.md), revision `2026-10-19-r2`. The OpenKetupa name does not itself mean first-party software is open source.
 
 Each Release contains only three installer attachments. Linux TAR.GZ and DEB are alternative installation formats; choose one.
 
@@ -35,7 +60,28 @@ Each Release contains only three installer attachments. Linux TAR.GZ and DEB are
 2. Run the Windows EXE installer, or extract the Linux TAR.GZ / install the DEB. Follow the included environment setup instructions.
 3. A valid `.lic` is required for first-party proprietary software. Licensing and support: [asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com). Never publish licenses, keys, device identifiers, or customer data.
 
-First-party core software remains proprietary under [LICENSE.txt](LICENSE.txt) and the EULA. Public download grants neither free commercial use nor access to core source code. Commercial EDA tools and their licenses must be obtained separately. Required third-party notices and corresponding sources are provided separately under [third-party](third-party/README.md), not as installer attachments.
+### Licensing, intellectual property, and boundaries
+
+| Material or activity | Applicable terms |
+| --- | --- |
+| First-party software and documentation | [LICENSE.txt](LICENSE.txt) and [EULA](EULA.md); valid separate written agreements prevail within their express scope |
+| Entitlement | Actual agreements specify versions, modules, users, devices, concurrency, duration, territory, and purposes; do not assume free commercial or unlimited use |
+| Redistribution and services | Resale, OEM, white-label, hosting, SaaS, and shared entitlements require corresponding written permission, subject to statutory and third-party rights |
+| User projects and outputs | Processing does not transfer ownership to the publisher; incorporated restricted components retain their terms |
+| Third-party components | Independent terms in [third-party](third-party/README.md), including applicable source and library-replacement rights |
+| GitHub platform actions | Viewing, displaying, and forking within GitHub under platform terms do not grant software execution, off-platform redistribution, or commercial rights |
+
+First-party core source, non-public technical materials, and entitlement files are not published here. Do not bypass checks, share `.lic` files, resell, or obtain non-public first-party source without authority, subject to applicable law and third-party permissions. Obtain commercial EDA tools and licenses separately. This repository's terms do not change separate projects' open-source licenses.
+
+### Licensing requests and support
+
+Privately email [asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com) with the proposed licensed individual or organization, product and version, OS, user/device or concurrency needs, purpose, and duration. Confirm the Licensor's complete legal identity, authority, and entitlement scope in formal agreements or license evidence; author attribution and a domain are not substitutes. Pricing, trials, support, maintenance, and upgrades follow actual written agreements.
+
+Public reports should contain only versions, OS, reproduction steps, and sanitized logs. Never publish `.lic` files, secrets, device fingerprints, customer data, or real projects. Supply necessary activation identifiers only privately. Report rights disputes and security concerns privately without publishing exploitable details.
+
+### Distribution and verification
+
+Download from this repository's Releases and verify version, filename, and SHA-256. Unauthorized mirrors, modified packages, or resellers are not official deliveries. Digests check consistency, not digital signatures or security certification. Required third-party notices and sources are kept in the repository, not as installer attachments.
 
 Version 1.0.1 remains a preview. Historical labels do not claim completed installation or real simulation acceptance. Integrity checks are not functional, security, accuracy, or engineering-signoff certification. GitHub-generated Source code ZIP/TAR files are repository snapshots, not product installers.
 
