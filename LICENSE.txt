@@ -3,7 +3,7 @@ PROPRIETARY SOFTWARE NOTICE / 专有软件权利声明
 Document revision / 文档修订号: 2026-10-19-r2
 
 Copyright (c) 2024–2026 asen-tech.com. All rights reserved.
-Public author attribution / 公开作者署名: Asenjo (Asenjo.HB.L)
+Public author attribution / 公开作者署名: Asenjo HB
 
 中文
 本仓库第一方专有软件及产品资料保留全部未明确授予的权利。允许阅读

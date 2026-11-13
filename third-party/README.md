@@ -2,7 +2,7 @@
 
 这些文件用于向二进制接收者提供已识别组件的必要许可、对应源码及构建资料。它们不是 Ketupa 核心源码，也不是产品安装包，不受第一方专有 EULA 覆盖。所有 Release 附件仍只放三个产品安装包。
 
-These files provide required notices, corresponding source, and build materials for identified third-party binary components. They are neither proprietary Ketupa core source nor product installers, and retain their own licenses. Every Release still contains only three product installer attachments.
+These files provide required notices, corresponding source, and build materials for identified third-party binary components. They are neither proprietary KetupaMK core source nor product installers, and retain their own licenses. Every Release still contains only three product installer attachments.
 
 | 对应产品版本 / Product version | 组件 / Component | 源码 / Source | 原始来源 / Origin |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Encrypted business payloads in the two historical 1.0.0 distributions were not f
 
 第一方 EULA 不撤销第三方许可明确保留的修改、替换和调试权利，也不授予绕过第一方专有软件授权的权利。完整组件声明以安装包与源码归档为准。
 
-The first-party EULA does not revoke third-party rights to modify, replace, or debug components, and does not authorize bypassing proprietary Ketupa licensing. Consult the installers and source archives for complete component notices.
+The first-party EULA does not revoke third-party rights to modify, replace, or debug components, and does not authorize bypassing proprietary KetupaMK licensing. Consult the installers and source archives for complete component notices.
 
 ## 原许可 / Original licenses
 
@@ -44,4 +44,5 @@ f4fa066278f7a47feab316fef905f4db0d5e9b589451949740f83972b30901bd  ffmpeg-5.1.6.t
 996eb282ca4b43ec6a3972414de0e2331f5d9cda2b41091a49739c19fb843798  opencv-python-headless-4.11.0.86.tar.gz
 ```
 
-Contact / 联系：[asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com)
+作者 / Author: **Asenjo HB**  
+邮箱 / Email: [asenjoaupa@gmail.com](mailto:asenjoaupa@gmail.com) · [3405802009@qq.com](mailto:3405802009@qq.com)

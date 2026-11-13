@@ -11,7 +11,7 @@
 
 本协议适用于上述产品中权利人有权许可的第一方软件、配套文档及依法受保护的非公开技术资料，统称“专有材料”。第三方组件另依第 7 条处理。OpenKetupa 名称本身不表示第一方软件已经开源。
 
-“许可方”是有效合同、授权证明或双方书面确认中具有合法许可权的明确法律主体；“用户”是获许可的个人或组织。Asenjo / Asenjo.HB.L 为公开作者署名，asen-tech.com 为发布标识，不仅凭署名或域名认定公司身份、法定姓名或权属。签约前应核对许可方完整身份及授权依据。
+“许可方”是有效合同、授权证明或双方书面确认中具有合法许可权的明确法律主体；“用户”是获许可的个人或组织。Asenjo HB 为公开作者署名，asen-tech.com 为发布标识，不仅凭署名或域名认定公司身份、法定姓名或权属。签约前应核对许可方完整身份及授权依据。
 
 有效专项书面协议在其明确约定范围内优先；强制性法律及第三方独立许可优先适用。README、版本说明及下载页面不构成额外功能、服务级别或商用授权承诺。
 
@@ -109,7 +109,7 @@ GitHub 平台条款允许的站内查看、展示及 fork 等行为不受本协�
 
 This agreement covers first-party software in the listed products that the rights holder may lawfully license, accompanying documentation, and legally protected non-public technical materials (the “Proprietary Materials”). Section 7 covers third-party components. The OpenKetupa name does not itself mean first-party software is open source.
 
-The “Licensor” is the identified legal person or entity with lawful licensing authority stated in an effective agreement, license evidence, or written confirmation; the “User” is the licensed individual or organization. Asenjo / Asenjo.HB.L is a public author attribution and asen-tech.com a publishing identifier; neither alone establishes corporate identity, a legal personal name, or ownership. Verify complete legal identity and authority before contracting.
+The “Licensor” is the identified legal person or entity with lawful licensing authority stated in an effective agreement, license evidence, or written confirmation; the “User” is the licensed individual or organization. Asenjo HB is a public author attribution and asen-tech.com a publishing identifier; neither alone establishes corporate identity, a legal personal name, or ownership. Verify complete legal identity and authority before contracting.
 
 A valid separate written agreement prevails within its express scope. Mandatory law and independent third-party licenses take precedence where applicable. README files, release notes, and download pages promise no additional features, service levels, or commercial entitlement.
 
