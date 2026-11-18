@@ -1,5 +1,0 @@
-*.md text eol=lf
-*.txt text eol=lf
-*.xz binary
-*.gz binary
-*.rpm binary
